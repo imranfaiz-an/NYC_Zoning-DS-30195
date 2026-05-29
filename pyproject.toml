@@ -12,6 +12,7 @@ dependencies = [
     "pandas>=3.0.3",
     "plotly>=6.7.0",
     "polars>=1.40.1",
+    "sodapy>=2.2.0",
 ]
 
 [dependency-groups]
